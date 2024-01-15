@@ -23,8 +23,8 @@ The component is designed to fit seamlessly into a webpage, allowing users to sc
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Challenge Solution](https://www.frontendmentor.io/solutions/mobileresponsive-qr-code-component-solution-using-flexbox-uv4rRlUo6r)
+- Live Site URL: [Live Demo](https://qrcode-component-challenge-solution.netlify.app/)
 
 ## My process
 
